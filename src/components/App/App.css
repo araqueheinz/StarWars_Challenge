@@ -1,0 +1,32 @@
+/*  ///////////////////////////////////////////////
+   //            * MASTER CONTROLS *            //
+  /////////////////////////////////////////////// */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  background-color: #fff;
+  color: #333;
+}
+h1, h2, h3, p, span, label {
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  width: 60%;
+}
+
+
+
